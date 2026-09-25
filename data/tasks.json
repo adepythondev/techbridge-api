@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "day": "Day 1",
+    "title": "Task 1: Build the TechBridge Homepage",
+    "category": "beginner",
+    "status": "completed",
+    "description": "Construct a clean, responsive landing page introducing TechBridge using semantic HTML5 and CSS3."
+  },
+  {
+    "id": 2,
+    "day": "Day 4",
+    "title": "Task 2: Build the Programs Experience",
+    "category": "beginner",
+    "status": "completed",
+    "description": "Expand the platform into a multi-page site featuring interactive program comparison cards."
+  },
+  {
+    "id": 3,
+    "day": "Day 8",
+    "title": "Task 3: Build the Internship Tasks Experience",
+    "category": "beginner",
+    "status": "completed",
+    "description": "Design a visual roadmap displaying all 8 internship milestones and timeline requirements."
+  },
+  {
+    "id": 4,
+    "day": "Day 11",
+    "title": "Task 4: Build an Interactive Task Tracker",
+    "category": "intermediate",
+    "status": "completed",
+    "description": "Implement dynamic filtering and progress tracking using DOM manipulation and state logic."
+  },
+  {
+    "id": 5,
+    "day": "Day 15",
+    "title": "Task 5: Build the Intern Registration Experience",
+    "category": "intermediate",
+    "status": "completed",
+    "description": "Create a user registration flow with client-side form validation and Regex checks."
+  },
+  {
+    "id": 6,
+    "day": "Day 19",
+    "title": "Task 6: Build the TechBridge Intern Dashboard",
+    "category": "intermediate",
+    "status": "completed",
+    "description": "Personal analytics dashboard rendering submission metrics and tech explorer."
+  },
+  {
+    "id": 7,
+    "day": "Day 22",
+    "title": "Task 7: Build a TechBridge Task Management API",
+    "category": "advanced",
+    "status": "in-progress",
+    "description": "Engineer a REST API connected to the intern dashboard via fetch()."
+  },
+  {
+    "id": 8,
+    "day": "Day 26",
+    "title": "Task 8: Final Capstone Deployment",
+    "category": "advanced",
+    "status": "not-started",
+    "description": "Complete end-to-end multi-page platform integration and production deployment."
+  }
+]
